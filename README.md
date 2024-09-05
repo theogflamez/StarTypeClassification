@@ -1,6 +1,6 @@
 # StarTypeClassification
 
-Machine Learning Model used off of Random Forest Classifier to correctly predict stars based off their
+Machine Learning Model trained off of Random Forest Classifier to correctly predict stars based off their:
 - Absolute Temperature (in K)
 - Relative Luminosity (L/Lo)
 - Relative Radius (R/Ro)
